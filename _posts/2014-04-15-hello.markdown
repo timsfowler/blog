@@ -3,4 +3,8 @@ layout: post
 title:  "Hello - 2"
 date:   2014-04-15 14:16:06
 categories: jekyll update
+image: "http://placekitten.com/500/200"
+image: "imgs/500.png"
 ---
+
+imgs in a folder called public?
